@@ -4,7 +4,6 @@ https://opensource.org/licenses/MIT
 
 <p class="align right">
 <h4>reason is an open-source framework to translate computer vision to text</h4>
-  Every pixel matters
   Start date: September 2023
 </p>
 
