@@ -7,14 +7,14 @@ https://opensource.org/licenses/MIT
   Start date: September 2023
 </p>
 
-[Introduction Video] <br />
+[Introduction Video] <br /> <br />
 [Form, Space & Order] <br />
-the cartesian plane can be quantified as instances. this allows what computers see to approach the limit of human reason. <br />
+the cartesian plane can be quantified as instances. this allows what computers see to approach the limit of human reason. <br /> <br />
 [What] <br />
-every pixel in every frame are defined so objects are understood at the most basic level.<br />
+every pixel in every frame are defined so objects are understood at the most basic level.<br /> <br />
 [Why] <br />
-safety, human comfort, and improved outcomes in varying industries.<br />
-[Quickstart] <br />
+safety, human comfort, and improved outcomes in varying industries.<br /> <br />
+[Quickstart] <br /> <br />
 [Examples]
 
 ## Navigation
