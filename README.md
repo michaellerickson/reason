@@ -18,7 +18,7 @@ https://opensource.org/licenses/MIT
 ## Navigation
 
 [Introduction Video] • <br />
-[Data & Reasoning Fabric](https://drf.nasa.gov/) • <br />
+[Data & Reasoning Fabric] • <br />
 [Quickstart] • <br />
 [Form, Space & Order] • <br />
 [Examples] • <br />
