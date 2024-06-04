@@ -8,11 +8,11 @@ https://opensource.org/licenses/MIT
   Start date: September 2023
 </p>
 
-[Introduction Video]
-[What]
-[Why]
-[Quickstart]
-[Form, Space & Order]
+[Introduction Video] <br \>
+[Form, Space & Order] <br \>
+[What] <br \>
+[Why] <br \>
+[Quickstart] <br \>
 [Examples]
 
 ## Navigation
