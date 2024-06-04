@@ -9,8 +9,11 @@ https://opensource.org/licenses/MIT
 
 [Introduction Video] <br />
 [Form, Space & Order] <br />
+the cartesian plane can be quantified as instances. this allows what computers see to approach the limit of human reason.
 [What] <br />
+every pixel in every frame are defined so objects are understood at the most basic level.<br />
 [Why] <br />
+safety, human comfort, and improved outcomes in varying industries.<br />
 [Quickstart] <br />
 [Examples]
 
