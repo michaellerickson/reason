@@ -4,6 +4,7 @@ https://opensource.org/licenses/MIT
 
 <p class="align right">
 <h4>reason is an open-source framework to translate computer vision to text</h4>
+  Predecessor to ChatGPT-4o CV to words
   Start date: September 2023
 </p>
 
