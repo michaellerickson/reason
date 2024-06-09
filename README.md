@@ -18,7 +18,7 @@ Being able to "see" is super helpful for computers. It lets them do important jo
 [Quickstart] <br />
 And the really cool part? The instructions for this program are open to everyone! Anyone can use them or even help make the program better. <br /> <br />
 [Examples] <br />
-With this program, computers can look ahead and see if there's anything blocking the road for self-driving cars. Or find a lost puppy by searching through pictures. Or tell someone who can't see what's in a picture by describing it out loud! <br /> Isn't that amazing? Computers are getting to be almost as good as you at seeing and understanding the world. And you could be one of the people teaching them new tricks when you get older if you study science and technology! <br /><br />
+With this program, computers can look ahead and see if there's anything blocking the road for self-driving cars. Or find a lost puppy by searching through pictures. Or tell someone who can't see what's in a picture by describing it out loud! <br /><br /> Isn't that amazing? Computers are getting to be almost as good as you at seeing and understanding the world. And you could be one of the people teaching them new tricks when you get older if you study science and technology! <br /><br />
 
 ## Navigation
 
