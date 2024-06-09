@@ -30,5 +30,3 @@ safety, human comfort, and improved outcomes in varying industries.<br /> <br />
 <br />
 <br />
 <br />
-
-https://queue.acm.org/detail.cfm?id=1016991
