@@ -3,7 +3,7 @@
 https://opensource.org/licenses/MIT
 
 <p class="align right">
-<h4>reason is an open-source framework to use computer vision and translate to text</h4>
+<h4>reason is an open-source framework to use computer vision and translate video to text</h4>
   Start date: September 2023
 </p>
 
